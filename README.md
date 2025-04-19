@@ -14,11 +14,23 @@ This REPO contains all the Power BI projects I have created and practiced:
    📊  Analyzed regional (Los Angeles, New York, Chicago) toy sales trends and product performance in 2020 - 21 by months to uncover revenue concentration and seasonal patterns.
 <img width="550" alt="image" src="toys_sales/toys_sales_scprtsc.png" />
 
-3. [Data Professional Survey Report](https://github.com/yuan-116/power_bi_projects/tree/aea655d5d200694f8c10c8a2a99229b65d061a2c/Data%20Professional%20Survey%20Report)
+3. [Sales - Plant.Co Sales Performance](Plant.co_Sales_Performance)
+   
+   📊 Analyzed Plant Co.’s sales performance by region, product type, and time to monitor key KPIs, including YTD revenue, PYTD comparison, and gross profit margin.
+
+<img width="550" alt="image" src="Plant.co_Sales_Performance/Plant co prtsc.png" />
+
+4. [Data Professional Survey Report](https://github.com/yuan-116/power_bi_projects/tree/aea655d5d200694f8c10c8a2a99229b65d061a2c/Data%20Professional%20Survey%20Report)
    
    📊  Analyzed responses from 630 data professionals to uncover entry-level challenges, salary gaps, and top language preferences.
 <img width="550" alt="image" src="Data Professional Survey Report/data professional survey_prtsc.png" />
 
-5. 
+5. [Hotel Booking Reservation Report](Hotel_Booking_Reservation_Report)
 
-6. 
+   📊 Simulated a real-world request from a hotel manager to analyze cancellation rates and generate a data-driven booking performance report with actionable recommendations.
+
+<img width="550" alt="image" src="Hotel_Booking_Reservation_Report/Hotel.png" />
+
+6. [Forbes World's Billionaires 2022 Report]()
+
+   📊 Created an interactive dashboard analyzing global billionaire demographics, wealth distribution, and industry concentration based on Forbes 2022 data.
